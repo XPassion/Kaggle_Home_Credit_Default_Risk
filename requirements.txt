@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+cufflinks
+warnings
+os
+sklearn
+xgb

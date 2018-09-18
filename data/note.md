@@ -1,1 +1,1 @@
-# Download necessary data from S3 storage
+Folder used to store necessary data files
